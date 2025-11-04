@@ -1,11 +1,9 @@
+package Narayana;
+
 import java.util.Arrays;
-import java.util.HashSet;
 import java.util.Scanner;
-import java.util.Set;
 
-import static java.lang.System.in;
-
-public class Naiarana {
+public class Narayana {
     public static Scanner in  = new Scanner(System.in);
 
     public static void main(String[] args) {
