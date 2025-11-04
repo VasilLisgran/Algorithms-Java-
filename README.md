@@ -10,7 +10,7 @@
 - [SieveOfEratosthenes](in progress)
 
 ### 🔄 Combinatorial Algorithms
- - lexicographic permutations generation
+ - [Narayana](./Combinatorial/Narayana) lexicographic permutations generation
 
 ### 📊 Sorting Algorithms (in progress)
 - Quick Sort
